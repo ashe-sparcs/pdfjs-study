@@ -26,7 +26,7 @@ PDFJS.workerSrc = 'bower_components/pdfjs-dist/build/pdf.worker.js';
 
 // Some PDFs need external cmaps.
 //
-// PDFJS.cMapUrl = 'bower_components/pdfjs-dist/cmaps/';
+// PDFJS.cMapUrl = '../../node_modules/pdfjs-dist/cmaps/';
 // PDFJS.cMapPacked = true;
 
 var DEFAULT_URL = 'static/pdf/turnjs4-api-docs.pdf'
